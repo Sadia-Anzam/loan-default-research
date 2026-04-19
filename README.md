@@ -205,7 +205,7 @@ The goal is not just to say whether the model performs well, but to understand *
 ## Repository Structure
 
 ```text
-loan-default-research/
+loan-default-prediction/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
